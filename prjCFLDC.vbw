@@ -1,0 +1,5 @@
+modMain = 59, 124, 849, 610, C
+modLUA = 66, 93, 850, 573, C
+modLUAInstruction = 38, 169, 822, 631, C
+frmMain = 66, 87, 829, 564, C, 44, 58, 807, 535, C
+modUTIL = 88, 116, 862, 602, C
